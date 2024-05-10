@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "ServiceNow Voice Screenpop",
+    "description": "ServiceNow Voice Screenpop by Nipon",
+    "tags": "ServiceNow, Voice",
+    "library": "Demo",
+    "version": "1.0.0",
+    "date": "2024-05-10T23:24:41.230Z",
+    "id": "5e066f61-5794-4aab-bc1d-3dda05744099"
+  },
+  "configuration": {
+    "external": true,
+    "timeout": 5000,
+    "serie": true,
+    "name": "5e066f61-5794-4aab-bc1d-3dda05744001",
+    "element": "<servicenow-voice-screenpop></servicenow-voice-screenpop>",
+    "icon": "neo-icon-crm",
+    "files": ["servicenow-voice-screenpop-widget/servicenowvoicescreenpop.js"],
+    "overrideUrl": "https://widgets.experience.avayacloud.com/engage2024/"
+  }
+}
